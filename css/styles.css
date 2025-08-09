@@ -1173,20 +1173,3 @@ img {
                           url(../images/hero/people-office-x2.jpg);
     }
 }
-
-/* Additional responsive breakpoints
-@media screen and (min-width: 428px) {
-    .container {
-        max-width: 428px;
-    }
-    
-    .mobile-social-list {
-        gap: 56px;
-    }
-}
-
-@media screen and (max-width: 767px) {
-    .mobile-menu-button {
-        display: block;
-    } 
-} */
